@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "From Text to Tech"
 collection: teaching
-type: "Undergraduate course"
+type: "Summer School Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Digital Humanities @ Oxford Summer School"
+date: Every Summer
+location: "Unviersity of Oxford"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Since 2020, I have been teaching a week-long workshop on introduction to NLP and Python as part of the Digital Humanities @ Oxford Summer School, together with my colleagues Mariona and Kaspar. If you would like to know more see [our repo with all our materials](https://github.com/Living-with-machines/dhoxss-text2tech).
 
 Heading 1
 ======
