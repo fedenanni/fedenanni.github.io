@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: https://github.com/Living-with-machines/dhoxss-text2tech
 venue: "Digital Humanities at Oxford"
-date: 2020
+date: 2020-01-01
 location: "University of Oxford, UK"
 ---
 
