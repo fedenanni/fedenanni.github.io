@@ -8,4 +8,4 @@ date: 2024-03-27
 location: "University College London, UK"
 ---
 
-In 2024, I have given an invited lecture as part of Andreas Vlachidis's Natural Language Processing and Text Analysis course at the UCL Department of Information Studies.
+In 2024, I gave an invited lecture as part of Andreas Vlachidis's Natural Language Processing and Text Analysis course at the UCL Department of Information Studies.
