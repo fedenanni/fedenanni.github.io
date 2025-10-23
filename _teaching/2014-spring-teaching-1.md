@@ -2,10 +2,10 @@
 title: "From Text to Tech"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University of Oxford"
-date: 2015-01-01
-location: "Oxford, UK"
+permalink: https://github.com/Living-with-machines/dhoxss-text2tech
+venue: "Digital Humanities @ Oxford"
+date: 2020
+location: "University of Oxford, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
