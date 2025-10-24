@@ -4,7 +4,7 @@ collection: teaching
 type: "MA & PhD Course"
 permalink: https://federiconannidotcom.wordpress.com/computational-text-analysis/
 venue: "University of Mannheim, Data and Web Science Group"
-date: 2015-01-01
+date: 2019-01-01
 location: "Mannheim, Germany"
 ---
 
